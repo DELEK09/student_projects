@@ -23,6 +23,7 @@ if guess == r:
 ```
 > A person who thinks all the time
 > has nothing to think about except thought <br>
+<hr>
 *- ktoś* <br>
 @JerryJerryJJ <br>
 $\frac{3}{5}$ <br>
