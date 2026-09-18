@@ -22,7 +22,8 @@ if guess == r:
  print("wygrałeś")
 ```
 > A person who thinks all the time
-> has nothing to think about except thought
-*- ktoś*
-@JerryJerryJJ
-$\frac{3}{5}$
+> has nothing to think about except thought <br>
+*- ktoś* <br>
+@JerryJerryJJ <br>
+$\frac{3}{5}$ <br>
+dziynkuja
