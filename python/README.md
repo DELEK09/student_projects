@@ -12,6 +12,9 @@ cośtam coś tam elit
 - punktowana 2
 1. Numerowana 1
 2. Numerowana 2
+@JerryJerryJJ <br>
+$\frac{3}{5}$ <br>
+dziynkuja
 
 [nic interere](https://tiny.pl/h2xvk)
 ```python
@@ -23,8 +26,5 @@ if guess == r:
 ```
 > A person who thinks all the time
 > has nothing to think about except thought 
-<br>
 *- ktoś* <br>
-@JerryJerryJJ <br>
-$\frac{3}{5}$ <br>
-dziynkuja
+
