@@ -11,7 +11,7 @@ cośtam coś tam elit
 - punktowana 1
 - punktowana 2
 1. Numerowana 1
-2. Numerowana 2
+2. Numerowana 2 <br>
 @JerryJerryJJ <br>
 $\frac{3}{5}$ <br>
 dziynkuja
