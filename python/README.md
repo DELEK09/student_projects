@@ -1,13 +1,14 @@
-godzina po południu,9189189189189189182026
-| Nagłówek 1 | Nagłówek 2 | Nagłówek 3 |
-|------------|------------|------------|
-|     a      |     b      |     c      |
-|     d      |     e      |     f      |
-```cpp
-#include<iostream>
-using namespace std;
+# Tytuł
+Lorem ipsum dolor sit amet, 
+cośtam coś tam elit
 
-int main() {
-   int r = 5;
-}
-```
+|a|b|c|
+|-|-|-|
+|d|e|f|
+|g|h|i|
+
+# Listy:
+- punktowana 1
+- punktowana 2
+1. Numerowana 1
+2. Numerowana 2
