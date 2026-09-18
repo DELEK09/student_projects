@@ -13,7 +13,7 @@ cośtam coś tam elit
 1. Numerowana 1
 2. Numerowana 2 <br>
 @JerryJerryJJ <br>
-$\frac{3}{5}$ <br>
+$\ce{^}$ A Cool guy <br>
 dziynkuja
 
 [nic interere](https://tiny.pl/h2xvk)
